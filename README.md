@@ -30,6 +30,21 @@
     </ul>
 
     <p>By using these sites, you can download Hollywood, Bollywood, Korean, Japanese web series and movies, as well as anime and animated series. You can even download all Netflix series for free.</p>
+    <section id="contact">
+  <h2>Contact Me</h2>
+  <form action="mailto:asfandsubhan515@gmail.com" method="POST" enctype="text/plain">
+    <label for="name">Name</label>
+    <input type="text" id="name" name="Name" required>
+
+    <label for="email">Email</label>
+    <input type="email" id="email" name="Email" required>
+
+    <label for="message">Message</label>
+    <textarea id="message" name="Message" rows="5" required></textarea>
+
+    <button type="submit">Send</button>
+  </form>
+</section>
 
     <h1>This site is created by ASFAND SUBHAN</h1>
 </body>
